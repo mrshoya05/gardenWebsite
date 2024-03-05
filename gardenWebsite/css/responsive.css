@@ -1,0 +1,82 @@
+@media screen and (max-width: 600px) {
+    .email {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .phone-no{
+        width: 50%;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .logo{
+        width: 50%;
+    }
+  }
+
+  @media screen and (max-width: 600px){
+    .custom-nav a{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    }
+  }
+
+  /* slider styling  */
+@media screen and  (max-width: 600px){
+    .slider-img-res img{
+        height: 250px;
+        width: 220px;
+    }
+
+}
+@media screen and (max-width: 600px){
+  .main-container-box{
+   display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .heading-cards{
+    margin-top: 2em;
+    width: 50px;
+  }
+}
+
+/* map responsive styling  */
+@media screen and  (max-width: 500px){
+  center div iframe{
+      height: 418px;
+       width: 450px;
+  }
+
+}
+
+/* about page image responsive */
+
+@media screen and (max-width: 600px){
+  .main-abt img{
+    height: 400px;
+    width: 480px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .display-none{
+    display: none;
+  }
+  
+}
+@media screen and (max-width: 600px) {
+  .abt-res{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+}
